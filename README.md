@@ -11,6 +11,7 @@ Pidän ohjelmien ja sovellusten suunnittelusta, jotka helpottavat arkea ja tukev
 ## Taitoalueet
 
 - JS, CSS, HTML
+- electron, node.js
 - Python, Flask, FastAPI
 - SQL, SQLite
 - Git, Github
