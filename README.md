@@ -20,10 +20,10 @@ Pidän ohjelmien ja sovellusten suunnittelusta, jotka helpottavat arkea ja tukev
 
 ## Prokeltit
 
-### [lily-calendar](https://github.com/ofvalleys/lily-calendar)
+### [lily-calendar](https://github.com/belljars/lily-calendar)
 Yksinkertainen kalenteri-sovellus luotu Pythonilla ja perus frontend-kielillä, käyttäen FastAPI ja SQL:ta
 
-### [starter-blog](https://github.com/ofvalleys/starter-blog)
+### [starter-blog](https://github.com/belljars/starter-blog)
 Blogiprojekti, jossa voi kirjoittaa postaukset tekstitiedostoihin ja muuntaa ne Python-skriptillä automaattisesti selkeiksi HTML-sivuiksi helppoa julkaisemista ja lukemista varten.
 
 ---
