@@ -14,7 +14,8 @@ Pidän ohjelmien ja sovellusten suunnittelusta, jotka helpottavat arkea ja tukev
 - Python, Flask, FastAPI
 - SQL, SQLite
 - Git, Github
-- Linux-järjestelmien hallinta ja ylläpito
+- Curl, Wget
+- Linux ja BSD järjestelmien hallinta ja ylläpito
 - Bash, shell
 
 ## Prokeltit
