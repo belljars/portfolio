@@ -19,16 +19,6 @@ Pidän ohjelmien ja sovellusten suunnittelusta, jotka helpottavat arkea ja tukev
 - Linux ja BSD järjestelmien hallinta ja ylläpito
 - Bash, shell
 
-## Prokeltit
-
-### [lily-calendar](https://github.com/belljars/lily-calendar)
-Yksinkertainen kalenteri-sovellus luotu Pythonilla ja perus frontend-kielillä, käyttäen FastAPI ja SQL:ta
-
-### [starter-blog](https://github.com/belljars/starter-blog)
-Blogiprojekti, jossa voi kirjoittaa postaukset tekstitiedostoihin ja muuntaa ne Python-skriptillä automaattisesti selkeiksi HTML-sivuiksi helppoa julkaisemista ja lukemista varten.
-
----
-
 ## Koulutus
 
 **Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä**, Ammattiopisto Luovi, 2024 – 2027 _(käynnissä)_
